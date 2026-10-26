@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Voice Studio</string>
+    <string name="app_subtitle">Voice to Text &amp; Text to Speech Studio</string>
+    <string name="tab_voice_to_text">Voice to Text</string>
+    <string name="tab_text_to_speech">Text to Speech</string>
+    <string name="tab_history">History</string>
+    <string name="tab_settings">Settings</string>
+    
+    <!-- Voice to Text -->
+    <string name="vtt_title">Voice to Text</string>
+    <string name="vtt_subtitle">Speak naturally in Arabic or other languages to transcribe live</string>
+    <string name="vtt_tap_to_record">Tap microphone to speak</string>
+    <string name="vtt_listening">Listening… Speak now</string>
+    <string name="vtt_processing">Processing audio…</string>
+    <string name="vtt_copy">Copy</string>
+    <string name="vtt_clear">Clear</string>
+    <string name="vtt_save">Save Note</string>
+    <string name="vtt_send_to_tts">Listen (TTS)</string>
+    <string name="vtt_share">Share</string>
+    <string name="vtt_copied_toast">Copied to clipboard</string>
+    <string name="vtt_saved_toast">Saved to history</string>
+    <string name="vtt_permission_required">Microphone permission is required for voice recognition</string>
+    <string name="vtt_permission_grant">Grant Permission</string>
+    
+    <!-- Text to Speech -->
+    <string name="tts_title">Text to Speech</string>
+    <string name="tts_subtitle">Type or paste text to synthesize crystal-clear Arabic &amp; English speech</string>
+    <string name="tts_placeholder">Type or paste Arabic / English text here…</string>
+    <string name="tts_play">Speak</string>
+    <string name="tts_pause">Pause</string>
+    <string name="tts_stop">Stop</string>
+    <string name="tts_pitch">Pitch</string>
+    <string name="tts_speed">Speed / Rate</string>
+    <string name="tts_remove_tashkeel">Remove Diacritics (تشكيل)</string>
+    <string name="tts_add_sample">Arabic Sample</string>
+    <string name="tts_speaking_now">Speaking…</string>
+    <string name="tts_ready">Ready to speak</string>
+    
+    <!-- History -->
+    <string name="history_title">Saved Notes &amp; Speech</string>
+    <string name="history_empty">No voice or text history saved yet.</string>
+    <string name="history_delete_all">Clear All</string>
+    <string name="history_deleted">Item deleted</string>
+    
+    <!-- Settings -->
+    <string name="settings_title">Audio &amp; Language Settings</string>
+    <string name="settings_lang_label">Primary Recognition Language</string>
+    <string name="settings_engine_status">TTS Engine Status</string>
+</resources>

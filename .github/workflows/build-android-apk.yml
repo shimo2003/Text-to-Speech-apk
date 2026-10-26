@@ -1,5 +1,9 @@
 name: Build Android APK
-
+      - name: Show repo structure
+        run: |
+          pwd
+          ls -la
+          find . -maxdepth 3 -name "gradlew" -o -maxdepth 3 -name "settings.gradle*" -o -maxdepth 3 -name "build.gradle*"
 on:
   workflow_dispatch:
 

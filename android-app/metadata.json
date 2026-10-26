@@ -1,0 +1,6 @@
+{
+  "name": "Voice Studio",
+  "description": "Voice-to-Text and Text-to-Speech app with Arabic and multilingual support, live waveform, speech speed and pitch controls, and voice history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
